@@ -1,0 +1,4 @@
+C:/Users/rajas/Downloads/AdcbEvents/android/app/.cxx/Debug/3c514ue5/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/Users/rajas/Downloads/AdcbEvents/android/app/.cxx/Debug/3c514ue5/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/Users/rajas/Downloads/AdcbEvents/android/app/.cxx/Debug/3c514ue5/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/Users/rajas/Downloads/AdcbEvents/android/app/.cxx/Debug/3c514ue5/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

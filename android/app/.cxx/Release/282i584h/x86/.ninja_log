@@ -1,0 +1,8 @@
+# ninja log v5
+19	7769	7860767943981972	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	7558d5538ef7185f
+2	46	0	C:/Users/rajas/Downloads/AdcbEvents/android/app/.cxx/Release/282i584h/x86/CMakeFiles/cmake.verify_globs	3d9ddc754a586370
+69	1618	7862050371757888	build.ninja	4ab0571b8cff44bf
+0	23	0	clean	1aedb95be4e2449b
+46	1065	7862050371757888	build.ninja	4ab0571b8cff44bf
+2	32	0	C:/Users/rajas/Downloads/AdcbEvents/android/app/.cxx/Release/282i584h/x86/CMakeFiles/cmake.verify_globs	3d9ddc754a586370
+0	12	0	clean	1aedb95be4e2449b

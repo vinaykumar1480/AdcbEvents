@@ -1,0 +1,263 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "rnasyncstorage_autolinked_build",
+					"jsonFile" : "directory-rnasyncstorage_autolinked_build-Release-464913536095767eadbc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "C:/Users/rajas/Downloads/AdcbEvents/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "RNBootSplashSpec_autolinked_build",
+					"jsonFile" : "directory-RNBootSplashSpec_autolinked_build-Release-5dece844fd1b4b19f4c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "C:/Users/rajas/Downloads/AdcbEvents/node_modules/react-native-bootsplash/android/build/generated/source/codegen/jni",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "RNLocalizeSpec_autolinked_build",
+					"jsonFile" : "directory-RNLocalizeSpec_autolinked_build-Release-1a0500360e928b2c645e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "C:/Users/rajas/Downloads/AdcbEvents/node_modules/react-native-localize/android/build/generated/source/codegen/jni",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "RNMapsSpecs_autolinked_build",
+					"jsonFile" : "directory-RNMapsSpecs_autolinked_build-Release-4cb617fded2e5a6edec2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "C:/Users/rajas/Downloads/AdcbEvents/node_modules/react-native-maps/android/src/main/jni",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "safeareacontext_autolinked_build",
+					"jsonFile" : "directory-safeareacontext_autolinked_build-Release-599b8c4048c9500d23b3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "C:/Users/rajas/Downloads/AdcbEvents/node_modules/react-native-safe-area-context/android/src/main/jni",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "rnscreens_autolinked_build",
+					"jsonFile" : "directory-rnscreens_autolinked_build-Release-114d65125a3e787c3d69.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "C:/Users/rajas/Downloads/AdcbEvents/node_modules/react-native-screens/android/src/main/jni",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "RNVectorIconsSpec_autolinked_build",
+					"jsonFile" : "directory-RNVectorIconsSpec_autolinked_build-Release-47aeec390b805ed9c707.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "C:/Users/rajas/Downloads/AdcbEvents/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "RNCWebViewSpec_autolinked_build",
+					"jsonFile" : "directory-RNCWebViewSpec_autolinked_build-Release-4e209f9e606659373d99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "C:/Users/rajas/Downloads/AdcbEvents/node_modules/react-native-webview/android/build/generated/source/codegen/jni",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"name" : "appmodules",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "appmodules::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appmodules-Release-6a313ccbae57f00a5d13.json",
+					"name" : "appmodules",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "react_codegen_RNBootSplashSpec::@05d5bd8b08339ce1ebaa",
+					"jsonFile" : "target-react_codegen_RNBootSplashSpec-Release-de97563d830e193bb812.json",
+					"name" : "react_codegen_RNBootSplashSpec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "react_codegen_RNCWebViewSpec::@eb48929f9f7453740a6c",
+					"jsonFile" : "target-react_codegen_RNCWebViewSpec-Release-94791622db98e6e6b85b.json",
+					"name" : "react_codegen_RNCWebViewSpec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "react_codegen_RNLocalizeSpec::@f3ba5298aff84514e205",
+					"jsonFile" : "target-react_codegen_RNLocalizeSpec-Release-5a3a195e67bc95094557.json",
+					"name" : "react_codegen_RNLocalizeSpec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "react_codegen_RNMapsSpecs::@5748abef1962d24942ec",
+					"jsonFile" : "target-react_codegen_RNMapsSpecs-Release-43fbcda45a19708dc208.json",
+					"name" : "react_codegen_RNMapsSpecs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d",
+					"jsonFile" : "target-react_codegen_RNVectorIconsSpec-Release-c66a5ed4377e29b430a6.json",
+					"name" : "react_codegen_RNVectorIconsSpec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe",
+					"jsonFile" : "target-react_codegen_rnasyncstorage-Release-77dd54bd6d60a008afbf.json",
+					"name" : "react_codegen_rnasyncstorage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "react_codegen_rnscreens::@25bcbd507e98d3a854ad",
+					"jsonFile" : "target-react_codegen_rnscreens-Release-c4259385a35e609f7c7a.json",
+					"name" : "react_codegen_rnscreens",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "react_codegen_safeareacontext::@7984cd80db47aa7b952a",
+					"jsonFile" : "target-react_codegen_safeareacontext-Release-70b415082d6594228214.json",
+					"name" : "react_codegen_safeareacontext",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rajas/Downloads/AdcbEvents/android/app/.cxx/Release/282i584h/arm64-v8a",
+		"source" : "C:/Users/rajas/Downloads/AdcbEvents/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
